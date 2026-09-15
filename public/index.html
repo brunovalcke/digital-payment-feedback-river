@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy-safe Medallia payment feedback dashboard">
+  <title>Feedback River</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header><p class="eyebrow">PAYMENT EXPERIENCE</p><h1>Feedback River</h1><p class="muted">An anonymized view of Medallia payment feedback.</p></header>
+    <section class="controls" aria-label="Filters">
+      <label>Country <select id="country"><option value="">All countries</option></select></label>
+      <label>Payment method <select id="payment_method"><option value="">All methods</option></select></label>
+      <label>Channel <select id="channel"><option value="">All channels</option></select></label>
+    </section>
+    <nav class="tabs" aria-label="Period"><button class="active" data-period="daily">Daily highlights</button><button data-period="weekly">Weekly summary</button></nav>
+    <section id="metrics" class="metrics" aria-live="polite"></section>
+    <section class="grid"><article><h2>Rating distribution</h2><div id="distribution"></div></article><article><h2>By dimension</h2><div id="dimensions"></div></article></section>
+    <section><h2>Highlights</h2><div id="highlights" class="highlights"></div></section>
+    <footer>Generated <time id="generated"></time>. Public artifacts contain anonymized fixture/API data only.</footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

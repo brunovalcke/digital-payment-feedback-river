@@ -1,0 +1,8 @@
+[
+  {"id":"f-001","created_at":"2026-09-15T08:30:00Z","country":"BE","payment_method":"Card","channel":"Web","rating":5,"comment":"Fast checkout, thank you!"},
+  {"id":"f-002","created_at":"2026-09-15T09:10:00Z","country":"FR","payment_method":"PayPal","channel":"App","rating":2,"comment":"Order AB-12345 failed twice. Contact me at alice@example.com."},
+  {"id":"f-003","created_at":"2026-09-14T15:00:00Z","country":"NL","payment_method":"iDEAL","channel":"Web","rating":4,"comment":"Clear and easy."},
+  {"id":"f-004","created_at":"2026-09-12T12:45:00Z","country":"BE","payment_method":"Card","channel":"Store","rating":1,"comment":"Please call +32 470 12 34 56 about https://example.com/order/123."},
+  {"id":"f-005","created_at":"2026-09-10T18:20:00Z","country":"DE","payment_method":"Apple Pay","channel":"App","rating":3,"comment":"Could be quicker."},
+  {"id":"f-006","created_at":"2026-09-08T07:10:00Z","country":"FR","payment_method":"Card","channel":"Web","rating":5,"comment":"Excellent experience."}
+]
