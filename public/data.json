@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:10:27.027149+00:00",
+  "generated_at": "2026-09-16T11:37:09.399719+00:00",
   "records": [
     {
       "id": "f-001",
@@ -17,7 +17,7 @@
       "payment_method": "PayPal",
       "channel": "App",
       "rating": 2,
-      "comment": "[ORDER-096ffa3c29] failed twice. Contact me at [EMAIL-8813cb5124]."
+      "comment": "[ORDER-d455951329] failed twice. Contact me at [EMAIL-4f7042f2eb]."
     },
     {
       "id": "f-003",
@@ -35,7 +35,7 @@
       "payment_method": "Card",
       "channel": "Store",
       "rating": 1,
-      "comment": "Please call [PHONE-68a6000b13] about [URL-c66bccc046]"
+      "comment": "Please call [PHONE-9a6fad02c5] about [URL-e165a5ea87]"
     },
     {
       "id": "f-005",
@@ -58,80 +58,28 @@
   ],
   "daily": {
     "period": "daily",
-    "from": "2026-09-15",
-    "to": "2026-09-15",
-    "total": 2,
-    "average_rating": 3.5,
+    "from": "2026-09-16",
+    "to": "2026-09-16",
+    "total": 0,
+    "average_rating": 0,
     "rating_distribution": {
       "1": 0,
-      "2": 1,
+      "2": 0,
       "3": 0,
       "4": 0,
-      "5": 1
+      "5": 0
     },
     "dimensions": {
-      "country": [
-        {
-          "value": "BE",
-          "count": 1,
-          "average_rating": 5.0
-        },
-        {
-          "value": "FR",
-          "count": 1,
-          "average_rating": 2.0
-        }
-      ],
-      "payment_method": [
-        {
-          "value": "Card",
-          "count": 1,
-          "average_rating": 5.0
-        },
-        {
-          "value": "PayPal",
-          "count": 1,
-          "average_rating": 2.0
-        }
-      ],
-      "channel": [
-        {
-          "value": "App",
-          "count": 1,
-          "average_rating": 2.0
-        },
-        {
-          "value": "Web",
-          "count": 1,
-          "average_rating": 5.0
-        }
-      ]
+      "country": [],
+      "payment_method": [],
+      "channel": []
     },
-    "highlights": [
-      {
-        "id": "f-002",
-        "created_at": "2026-09-15T09:10:00Z",
-        "country": "FR",
-        "payment_method": "PayPal",
-        "channel": "App",
-        "rating": 2,
-        "comment": "[ORDER-096ffa3c29] failed twice. Contact me at [EMAIL-8813cb5124]."
-      },
-      {
-        "id": "f-001",
-        "created_at": "2026-09-15T08:30:00Z",
-        "country": "BE",
-        "payment_method": "Card",
-        "channel": "Web",
-        "rating": 5,
-        "comment": "Fast checkout, thank you!"
-      }
-    ]
+    "highlights": []
   },
   "weekly": {
     "period": "weekly",
     "from": "2026-09-14",
-    "to": "2026-09-15",
+    "to": "2026-09-16",
     "total": 3,
     "average_rating": 3.67,
     "rating_distribution": {
@@ -197,7 +145,7 @@
         "payment_method": "PayPal",
         "channel": "App",
         "rating": 2,
-        "comment": "[ORDER-096ffa3c29] failed twice. Contact me at [EMAIL-8813cb5124]."
+        "comment": "[ORDER-d455951329] failed twice. Contact me at [EMAIL-4f7042f2eb]."
       },
       {
         "id": "f-003",
