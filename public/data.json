@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:41:31.143231+00:00",
+  "generated_at": "2026-10-04T12:24:11.427046+00:00",
   "records": [
     {
       "id": "f-001",
@@ -58,8 +58,8 @@
   ],
   "daily": {
     "period": "daily",
-    "from": "2026-10-03",
-    "to": "2026-10-03",
+    "from": "2026-10-04",
+    "to": "2026-10-04",
     "total": 0,
     "average_rating": 0,
     "rating_distribution": {
@@ -79,7 +79,7 @@
   "weekly": {
     "period": "weekly",
     "from": "2026-09-28",
-    "to": "2026-10-03",
+    "to": "2026-10-04",
     "total": 0,
     "average_rating": 0,
     "rating_distribution": {
